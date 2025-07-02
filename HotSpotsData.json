@@ -6,7 +6,8 @@
     "latitude": 51.6554,
     "longitude": 5.0410,
     "description": "Een van de grootste en bekendste attractieparken in Nederland.",
-    "website": "https://www.efteling.com/nl"
+    "website": "https://www.efteling.com/nl",
+    "image": "https://www.creetion.nl/wp-content/uploads/2022/02/efteling-1024x576.png"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "latitude": 52.2715,
     "longitude": 4.5469,
     "description": "Beroemde bloementuin, vooral bekend om de tulpen in het voorjaar.",
-    "website": "https://keukenhof.nl"
+    "website": "https://keukenhof.nl",
+    "image": "https://visithaarlemmermeer.nl/sites/default/files/visual_image_teaser/64563.jpg"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "latitude": 52.3599,
     "longitude": 4.8852,
     "description": "Het nationale museum van Nederland met een grote collectie kunst en geschiedenis.",
-    "website": "https://www.rijksmuseum.nl"
+    "website": "https://www.rijksmuseum.nl",
+    "image": "https://www.rijksmuseum.nl/assets/fdd2733b-030d-46be-ac53-932f3b719e77?w=1920&h=1080&fx=3333&fy=2025&c=c454422478deb97d5028ef15fe8ee1444efc831752f549ed9579f8f86f2b6708"
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "latitude": 52.0993,
     "longitude": 4.2884,
     "description": "Miniatuurstad met beroemde Nederlandse gebouwen en landschappen in het klein.",
-    "website": "https://www.madurodam.nl"
+    "website": "https://www.madurodam.nl",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Madurodam_pays_bas.JPG"
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "latitude": 52.0930,
     "longitude": 5.8160,
     "description": "Een groot natuurgebied met bossen, heide en zandverstuivingen.",
-    "website": "https://www.hogeveluwe.nl"
+    "website": "https://www.hogeveluwe.nl",
+    "image": "https://www.dehoevevannunspeet.nl/upload/images/WAT%20MOET%20JE%20GEZIEN%20HEBBEN%20BIJ%20DE%20VELUWE.jpeg"
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "latitude": 52.3584,
     "longitude": 4.8811,
     "description": "Museum gewijd aan het werk van Vincent van Gogh.",
-    "website": "https://www.vangoghmuseum.nl"
+    "website": "https://www.vangoghmuseum.nl",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/48/51/81/van-gogh-museum-foto.jpg?w=1200&h=-1&s=1"
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@
     "latitude": 51.6083,
     "longitude": 3.6178,
     "description": "Educatief park over de Deltawerken met attracties en zeehonden.",
-    "website": "https://www.neeltjejans.nl"
+    "website": "https://www.neeltjejans.nl",
+    "image": "https://www.neeltjejans.nl/wp-content/uploads/sites/3/2021/04/WhatsApp-Image-2024-08-30-at-14.19.11.jpeg"
   },
   {
     "id": 8,
@@ -69,7 +76,8 @@
     "latitude": 52.3287,
     "longitude": 5.6251,
     "description": "Het grootste zeezoogdierenpark van Europa.",
-    "website": "https://www.dolfinarium.nl"
+    "website": "https://www.dolfinarium.nl",
+    "image": "https://prod1-plate-attachments.s3.amazonaws.com/images/4b4d24930e/harderwijk-dolfinarium-show-rolstoel-dagtocht-senioren-persfoto-2-1024x576.jpeg"
   },
   {
     "id": 9,
@@ -78,7 +86,8 @@
     "latitude": 52.4732,
     "longitude": 4.8177,
     "description": "Openluchtmuseum met traditionele molens en ambachten.",
-    "website": "https://www.dezaanseschans.nl"
+    "website": "https://www.dezaanseschans.nl",
+    "image": "https://tourcompany.nl/wp-content/uploads/2023/11/TC_BEELD_ZAANSESCHANS_WEBSITE.jpg"
   },
   {
     "id": 10,
@@ -87,7 +96,8 @@
     "latitude": 52.2711,
     "longitude": 4.5403,
     "description": "Uitgestrekte tulpenvelden rondom Keukenhof in het voorjaar.",
-    "website": "https://keukenhof.nl"
+    "website": "https://keukenhof.nl",
+    "image": "https://cdn-imgix.headout.com/media/images/2187a36a06952fca309748354a01d2ac-Top%20Attractions%20in%20Amsterdam.jpg"
   },
   {
     "id": 11,
@@ -96,7 +106,8 @@
     "latitude": 52.1284,
     "longitude": 4.2853,
     "description": "Populair strand met boulevard en pier in Den Haag.",
-    "website": "https://www.scheveningen.com"
+    "website": "https://www.scheveningen.com",
+    "image": "https://bollenstreek.nl/wp-content/uploads/2020/05/Webcam-scheveningen-1024x683.jpg"
   },
   {
     "id": 12,
@@ -105,7 +116,8 @@
     "latitude": 52.0800,
     "longitude": 4.3125,
     "description": "Het politieke hart van Nederland in Den Haag.",
-    "website": "https://www.rijksoverheid.nl/onderwerpen/binnenhof"
+    "website": "https://www.rijksoverheid.nl/onderwerpen/binnenhof",
+    "image": "https://derdekamer.nl/app/uploads/2022/05/Binnenhof_Bart-van-Vliet-1.jpg"
   },
   {
     "id": 13,
@@ -114,7 +126,8 @@
     "latitude": 52.3752,
     "longitude": 4.8836,
     "description": "Museum gewijd aan het leven van Anne Frank.",
-    "website": "https://www.annefrank.org"
+    "website": "https://www.annefrank.org",
+    "image": "https://image.parool.nl/168622789/width/2480/anne-frank-huis-in-problemen-oproep-voor-donaties"
   },
   {
     "id": 14,
@@ -123,7 +136,8 @@
     "latitude": 51.9175,
     "longitude": 4.4788,
     "description": "Overdekte markthal met foodstands en bijzondere architectuur.",
-    "website": "https://www.markthal.nl"
+    "website": "https://www.markthal.nl",
+    "image": "https://www.cityguiderotterdam.com/fileadmin/_processed_/7/5/csm_Martkhal-binnen-avond-1576-Ed_fe410fe0bc.jpg"
   },
   {
     "id": 15,
@@ -132,7 +146,8 @@
     "latitude": 51.9004,
     "longitude": 4.4828,
     "description": "Hoogste uitkijktoren van Rotterdam met restaurant en uitzichtpunt.",
-    "website": "https://www.euromast.nl"
+    "website": "https://www.euromast.nl",
+    "image": "https://img.oastatic.com/img2/64711830/max/variant.jpg"
   },
   {
     "id": 16,
@@ -141,7 +156,8 @@
     "latitude": 52.7167,
     "longitude": 6.0833,
     "description": "Het ‘Venetië van Nederland’, bekend om zijn grachten en bootjes.",
-    "website": "https://www.giethoorn.com"
+    "website": "https://www.giethoorn.com",
+    "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/76/7b/0d.jpg"
   },
   {
     "id": 17,
@@ -150,7 +166,8 @@
     "latitude": 51.7500,
     "longitude": 4.7500,
     "description": "Uniek zoetwatergetijdengebied met kreken en wilgenbossen.",
-    "website": "https://www.nationaalparkbiesbosch.nl"
+    "website": "https://www.nationaalparkbiesbosch.nl",
+    "image": "https://www.holland.com/upload_mm/a/7/a/55823_fullimage_4_varen%20bij%20ecolodge%20in%20biesbosch%20foto%20apecolodges_1360x785_1600x1067.jpg"
   },
   {
     "id": 18,
@@ -159,7 +176,8 @@
     "latitude": 52.3584,
     "longitude": 4.8811,
     "description": "Bekend plein met het Rijksmuseum, Van Gogh Museum en Stedelijk Museum.",
-    "website": "https://www.museumplein.nl"
+    "website": "https://www.museumplein.nl",
+    "image": "https://d35w1qwxagl33g.cloudfront.net/common/_1500x1000_crop_center-center_none/museumplein-twycer-808x608.jpg?stamp=2201131021&tag=2xl"
   },
   {
     "id": 19,
@@ -168,7 +186,8 @@
     "latitude": 50.8481,
     "longitude": 5.6779,
     "description": "Uitgestrekt natuurgebied in Limburg met bossen en heide.",
-    "website": "https://www.nationaalparkhogekempen.be"
+    "website": "https://www.nationaalparkhogekempen.be",
+    "image": "https://www.nationaalparkhogekempen.be/sites/default/files/styles/photo_full/public/images/photo_full/nphk_fietsentussendeterhills_14.jpg?itok=xnCFxVUr"
   },
   {
     "id": 20,
@@ -177,7 +196,8 @@
     "latitude": 53.2012,
     "longitude": 5.7999,
     "description": "Historische stad met grachten, musea en gezellige pleinen.",
-    "website": "https://www.leeuwarden.nl"
+    "website": "https://www.leeuwarden.nl",
+    "image": "https://www.aguidetoleeuwarden.nl/wp-content/uploads/2016/06/0Z3A1372WEB-1024x682.jpg"
   },
   {
     "id": 21,
@@ -186,7 +206,8 @@
     "latitude": 52.2568,
     "longitude": 6.1636,
     "description": "Historisch plein in de Hanzestad Deventer met terrassen en markten.",
-    "website": "https://www.visitdeventer.nl"
+    "website": "https://www.visitdeventer.nl",
+    "image": "https://www.touristserver.nl/img/158868-1599649612/B1200X1200/Spelen+op+de+Brink+header.jpg"
   },
   {
     "id": 22,
@@ -195,7 +216,8 @@
     "latitude": 53.0478,
     "longitude": 4.7833,
     "description": "Natuurmuseum en zeehondenopvang op Texel.",
-    "website": "https://www.ecomare.nl"
+    "website": "https://www.ecomare.nl",
+    "image": "https://www.ecomare.nl/wp-content/uploads/2017/07/zeehonden-na-sluitingstijd-ws.jpg"
   },
   {
     "id": 23,
@@ -204,7 +226,8 @@
     "latitude": 52.4954,
     "longitude": 5.0693,
     "description": "Typisch vissersdorp bekend om zijn klederdracht en visrestaurants.",
-    "website": "https://www.volendam.info"
+    "website": "https://www.volendam.info",
+    "image": "https://www.zeilen.nl/app/uploads/2022/10/43A2DAE3-A71D-4C67-ADB2-4F98233DCC12-scaled.jpeg"
   },
   {
     "id": 24,
@@ -213,7 +236,8 @@
     "latitude": 52.2713,
     "longitude": 4.5466,
     "description": "Grootste bloementuin van Nederland, vooral in het voorjaar populair.",
-    "website": "https://keukenhof.nl"
+    "website": "https://keukenhof.nl",
+    "image": "https://bollenstreek.nl/wp-content/uploads/2017/03/cropped-media-filer_public_thumbnails-filer_public-93-2b-932b1924-5400-479b-abe2-c83b7f230f46-160502lt0116.jpg__1200x1200_q85-620x350.jpg"
   },
   {
     "id": 25,
@@ -222,7 +246,8 @@
     "latitude": 51.9167,
     "longitude": 4.4792,
     "description": "Kunstmuseum in Rotterdam met een diverse collectie.",
-    "website": "https://www.boijmans.nl"
+    "website": "https://www.boijmans.nl",
+    "image": "https://www.boijmans.nl/dist/assets/img/temp/depot/depot_header_1.jpg"
   },
   {
     "id": 26,
@@ -231,7 +256,8 @@
     "latitude": 52.2040,
     "longitude": 6.1206,
     "description": "Unieke dierentuin waar apen vrij rondlopen.",
-    "website": "https://www.apenheul.nl"
+    "website": "https://www.apenheul.nl",
+    "image": "https://www.apenheul.nl/media/2aoiu0n3/apenheul-doodshoofdaap4-lr.jpg?width=1173&height=614&v=1dbc0b8d1840fd0"
   },
   {
     "id": 27,
@@ -240,7 +266,8 @@
     "latitude": 51.9600,
     "longitude": 5.5862,
     "description": "Grote dierentuin in Rhenen met onder andere panda's.",
-    "website": "https://www.ouwehand.nl"
+    "website": "https://www.ouwehand.nl",
+    "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/beverwijk.nieuws.store/images/2024-07/parkentree-uitgelicht.jpg"
   },
   {
     "id": 28,
@@ -249,7 +276,8 @@
     "latitude": 52.3086,
     "longitude": 5.9769,
     "description": "Populair attractiepark met achtbanen en shows.",
-    "website": "https://www.walibi.nl"
+    "website": "https://www.walibi.nl",
+    "image": "https://www.walibi.nl/adobe/dynamicmedia/deliver/dm-aid--f293e5a0-7b15-48e6-a2a6-7ac8b0335bb3/attractie-lostgravity-45.jpg?preferwebp=true&width=1280"
   },
   {
     "id": 29,
@@ -258,7 +286,8 @@
     "latitude": 52.3201,
     "longitude": 4.8427,
     "description": "Groot recreatiegebied vlakbij Amsterdam.",
-    "website": "https://www.amsterdamsebos.nl"
+    "website": "https://www.amsterdamsebos.nl",
+    "image": "https://www.frankwandelt.nl/templates/yootheme/cache/3e/ov-stapper-amsterdamse-bos-amsterdam-cs-amstelveen-800px-3e19cd5f.jpeg"
   },
   {
     "id": 30,
@@ -267,7 +296,8 @@
     "latitude": 52.0915,
     "longitude": 5.1410,
     "description": "Museum gewijd aan de geschiedenis van de spoorwegen.",
-    "website": "https://www.spoorwegmuseum.nl"
+    "website": "https://www.spoorwegmuseum.nl",
+    "image": "https://cdn.museum.nl/assets/d1bdc005-80fb-45d6-936b-1d245be5871e?w=3000&c=439a23cc3320af46d66e4d0e175648a3003072a160b2002466fc3d7c64995409"
   },
   {
     "id": 31,
@@ -276,7 +306,8 @@
     "latitude": 53.0497,
     "longitude": 4.7839,
     "description": "Natuurmuseum en zeehondenopvang op Texel.",
-    "website": "https://www.ecomare.nl"
+    "website": "https://www.ecomare.nl",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ecomare_-_potvis_op_buitenterrein_%28potvis-model-buitenterrein-03-sd%29.jpg/1200px-Ecomare_-_potvis_op_buitenterrein_%28potvis-model-buitenterrein-03-sd%29.jpg"
   },
   {
     "id": 32,
@@ -285,7 +316,8 @@
     "latitude": 52.7167,
     "longitude": 6.0833,
     "description": "Het ‘Venetië van Nederland’, bekend om zijn grachten en bootjes.",
-    "website": "https://www.giethoorn.com"
+    "website": "https://www.giethoorn.com",
+    "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/76/7b/0d.jpg"
   },
   {
     "id": 33,
@@ -294,7 +326,8 @@
     "latitude": 52.7894,
     "longitude": 6.0126,
     "description": "Groot moerasgebied en natuurpark in Overijssel.",
-    "website": "https://www.nationaalparkweerribbenwieden.nl"
+    "website": "https://www.nationaalparkweerribbenwieden.nl",
+    "image": "https://www.touristserver.nl/img/294612-1719302710/B1200X1200/11700-Weerribben-Wieden-2020-MarketingOost-Nationaal-Park-en-veenhart-32.jpg"
   },
   {
     "id": 34,
@@ -303,7 +336,8 @@
     "latitude": 52.3743,
     "longitude": 4.5380,
     "description": "Populair strand en badplaats vlakbij Amsterdam.",
-    "website": "https://www.zandvoort.nl"
+    "website": "https://www.zandvoort.nl",
+    "image": "https://visitzandvoort.nl/wp-content/uploads/2025/06/strand-zandvoort-zomer-scaled-1.webp"
   },
   {
     "id": 35,
@@ -312,7 +346,8 @@
     "latitude": 52.0921,
     "longitude": 5.1601,
     "description": "Museum over de Nederlandse krijgsmacht.",
-    "website": "https://www.nmm.nl"
+    "website": "https://www.nmm.nl",
+    "image": "https://assets.nmm.nl/app/uploads/2023/08/Nationaal-Militair-Museum-Soesterberg__HL83465-scaled.jpg"
   },
   {
     "id": 36,
@@ -321,7 +356,8 @@
     "latitude": 52.4859,
     "longitude": 5.0680,
     "description": "Historisch vissersdorp met houten huizen en musea.",
-    "website": "https://www.marken.com"
+    "website": "https://www.marken.com",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kerkbuurt_20150413.jpg"
   },
   {
     "id": 37,
@@ -330,7 +366,8 @@
     "latitude": 52.4732,
     "longitude": 4.8177,
     "description": "Openluchtmuseum met molens, ambachten en historische huizen.",
-    "website": "https://www.dezaanseschans.nl"
+    "website": "https://www.dezaanseschans.nl",
+    "image": "https://tourcompany.nl/wp-content/uploads/2023/11/TC_BEELD_ZAANSESCHANS_WEBSITE.jpg"
   },
   {
     "id": 38,
@@ -339,7 +376,8 @@
     "latitude": 51.8852,
     "longitude": 4.6423,
     "description": "Famous windmill complex and UNESCO World Heritage site.",
-    "website": "https://www.kinderdijk.nl"
+    "website": "https://www.kinderdijk.nl",
+    "image": "https://www.unesco.nl/system/files/styles/colorbox/private/heritage_images/Kinderdijk%20ochtend%20048.jpg?itok=GfYmkYBM"
   },
   {
     "id": 39,
@@ -348,7 +386,8 @@
     "latitude": 51.9225,
     "longitude": 4.4792,
     "description": "Kunstmuseum in Rotterdam met moderne en klassieke kunst.",
-    "website": "https://www.louwerotterdam.nl"
+    "website": "https://www.louwerotterdam.nl",
+    "image": "https://www.citytrip.be/wp-content/uploads/2024/08/iStock-482761983.jpg"
   },
   {
     "id": 40,
@@ -357,96 +396,7 @@
     "latitude": 51.9004,
     "longitude": 4.4828,
     "description": "Hoogste uitkijktoren van Rotterdam met een panoramisch uitzicht.",
-    "website": "https://www.euromast.nl"
-  },
-  {
-    "id": 41,
-    "name": "Leidseplein",
-    "type": "Plein / Uitgaan",
-    "latitude": 52.3643,
-    "longitude": 4.8835,
-    "description": "Populair plein in Amsterdam met cafés, theaters en clubs.",
-    "website": "https://www.leidseplein.nl"
-  },
-  {
-    "id": 42,
-    "name": "NEMO Science Museum",
-    "type": "Museum / Educatie",
-    "latitude": 52.3740,
-    "longitude": 4.9123,
-    "description": "Interactief wetenschapsmuseum in Amsterdam.",
-    "website": "https://www.nemosciencemuseum.nl"
-  },
-  {
-    "id": 43,
-    "name": "Het Scheepvaartmuseum",
-    "type": "Museum",
-    "latitude": 52.3746,
-    "longitude": 4.9125,
-    "description": "Museum over de Nederlandse maritieme geschiedenis.",
-    "website": "https://www.hetscheepvaartmuseum.nl"
-  },
-  {
-    "id": 44,
-    "name": "De Zaanse Schans",
-    "type": "Openluchtmuseum",
-    "latitude": 52.4732,
-    "longitude": 4.8177,
-    "description": "Historisch dorp met windmolens en ambachten.",
-    "website": "https://www.dezaanseschans.nl"
-  },
-  {
-    "id": 45,
-    "name": "Texel",
-    "type": "Eiland / Natuur",
-    "latitude": 53.0600,
-    "longitude": 4.7960,
-    "description": "Grootste Waddeneiland met natuurgebieden en stranden.",
-    "website": "https://www.texel.net"
-  },
-  {
-    "id": 46,
-    "name": "Giethoorn",
-    "type": "Dorp / Natuur",
-    "latitude": 52.7167,
-    "longitude": 6.0833,
-    "description": "Pittoresk dorpje met kanalen en rietgedekte huizen.",
-    "website": "https://www.giethoorn.com"
-  },
-  {
-    "id": 47,
-    "name": "Kroller-Muller Museum",
-    "type": "Museum",
-    "latitude": 52.0952,
-    "longitude": 5.8019,
-    "description": "Museum met grote collectie Van Gogh schilderijen en beelden.",
-    "website": "https://www.kmm.nl"
-  },
-  {
-    "id": 48,
-    "name": "Het Loo Paleis",
-    "type": "Paleis / Museum",
-    "latitude": 52.0032,
-    "longitude": 5.9655,
-    "description": "Historisch paleis en museum in Apeldoorn.",
-    "website": "https://www.paleishetloo.nl"
-  },
-  {
-    "id": 49,
-    "name": "Nationaal Park Lauwersmeer",
-    "type": "Natuurpark",
-    "latitude": 53.3739,
-    "longitude": 6.2561,
-    "description": "Nationaal park met meren, bossen en weidegebieden.",
-    "website": "https://www.nationaalparklauwersmeer.nl"
-  },
-  {
-    "id": 50,
-    "name": "Maastricht Vrijthof",
-    "type": "Plein / Cultuur",
-    "latitude": 50.8483,
-    "longitude": 5.6881,
-    "description": "Bekend plein in Maastricht met cafés en evenementen.",
-    "website": "https://www.maastricht.nl"
+    "website": "https://www.euromast.nl",
+    "image": "https://euromast.nl/wp-content/uploads/2024/04/DJI_0011.jpg"
   }
-]
+ ]
