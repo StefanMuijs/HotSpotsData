@@ -87,7 +87,7 @@
     "longitude": 4.8177,
     "description": "Openluchtmuseum met traditionele molens en ambachten.",
     "website": "https://www.dezaanseschans.nl",
-    "image": "https://tourcompany.nl/wp-content/uploads/2023/11/TC_BEELD_ZAANSESCHANS_WEBSITE.jpg"
+    "image": "https://www.hoponhopoffholland.com/wp-content/uploads/2024/02/keukenhof-zaanse-schans-1.webp"
   },
   {
     "id": 10,
@@ -358,16 +358,6 @@
     "description": "Historisch vissersdorp met houten huizen en musea.",
     "website": "https://www.marken.com",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kerkbuurt_20150413.jpg"
-  },
-  {
-    "id": 37,
-    "name": "Zaanse Schans",
-    "type": "Openluchtmuseum",
-    "latitude": 52.4732,
-    "longitude": 4.8177,
-    "description": "Openluchtmuseum met molens, ambachten en historische huizen.",
-    "website": "https://www.dezaanseschans.nl",
-    "image": "https://tourcompany.nl/wp-content/uploads/2023/11/TC_BEELD_ZAANSESCHANS_WEBSITE.jpg"
   },
   {
     "id": 38,
